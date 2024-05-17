@@ -11,5 +11,7 @@
 #import listaguanabara
 #import somaparaguanabara
 #import desafio096
-import desafio097
+#import desafio097
+#import desafio098
+import desafio099
 
